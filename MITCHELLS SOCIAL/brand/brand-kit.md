@@ -31,6 +31,19 @@ www.MitchellsCocoa.com
 - Plan a month of content at a time, including holiday posts, built from Frank's already-branded images.
 - Hours line "Open 7am-2pm every day!" is confirmed and can be used in posts.
 
+## From www.MitchellsCocoa.com (search-engine copy, about 2.5 years old)
+
+The live site couldn't be opened from the cloud session; this comes from the search index's saved copy. Close to the client's own words, but confirm it's still current before using it in posts.
+
+- Story: a local family-run restaurant; the owners grew up in Cocoa.
+- Promise: fresh, from-scratch food and a classic atmosphere.
+- Chicken and burgers are fresh, never frozen.
+- Breakfast: breakfast sandwiches, southern skillet, oatmeal with berries, omelets.
+- Lunch: burgers, salads.
+- Lunch and dinner trays (likely catering; confirm what they are and lead time).
+- Dessert: deep-fried chocolate strawberry cheesecake.
+- Waffles appear central to the brand (the site's email address starts with "waffles@").
+
 ## Unverified: from third-party listings, confirm before use
 
 Found by web search on 2026-10-08. Do **not** put these in a post until Frank or the client confirms them.
@@ -42,7 +55,7 @@ Found by web search on 2026-10-08. Do **not** put these in a post until Frank or
 
 ## Still to collect
 
-- Website review (www.MitchellsCocoa.com was unreachable from the cloud session; review it from the local session).
+- Full live website review from the local session: menu names and wording, photos, brand colors and fonts (www.MitchellsCocoa.com was blocked from the cloud session).
 - Facebook and Instagram handles and a review of recent posts (connected accounts come from HighLevel Social Planner `get-account`).
 - Brand colors and fonts (website CSS variables), logo file for the round badge.
 - Named menu items and the menu's own wording.
