@@ -1,0 +1,259 @@
+{
+ "week": "2026-W44",
+ "client": "Mitchell's Restaurant",
+ "locationId": "McxtZDLFfQXmRr0Nx1gb",
+ "timezone": "America/New_York",
+ "status": "draft",
+ "posts": [
+  {
+   "id": "mitchells-2026-10-26",
+   "date": "2026-10-26",
+   "weekday": "Monday",
+   "pillar": "Comfort food",
+   "goal": "Signature sausage gravy",
+   "headline": [
+    "Country fried chicken",
+    "Famous sausage gravy"
+   ],
+   "media": [
+    "country-fried-chicken-entree-mitchells"
+   ],
+   "altText": [
+    "Country fried chicken smothered in house-made sausage gravy"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Smothered.\n\nOur 8 oz country fried chicken breast, deep fried and covered in our famous house-made sausage gravy.\n\nSouthern comfort, made to order. Open 7am-2pm.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #CountryFriedChicken #SausageGravy #ComfortFood #SouthernFood",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Smothered.\n\nOur 8 oz country fried chicken breast, deep fried and covered in our famous house-made sausage gravy.\n\nSouthern comfort, made to order. Open 7am-2pm.\n\nIs there such a thing as too much gravy?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    },
+    "gbp": {
+     "time": "07:15",
+     "text": "Our 8 oz country fried chicken comes smothered in house-made sausage gravy. Southern comfort, made to order, 7am-2pm every day.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "cta": "LEARN_MORE",
+     "url": "https://www.mitchellscocoa.com",
+     "media": [
+      "country-fried-chicken-entree-mitchells"
+     ]
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-27",
+   "date": "2026-10-27",
+   "weekday": "Tuesday",
+   "pillar": "Event trays",
+   "goal": "Halloween party tray orders",
+   "headline": [
+    "Halloween party?",
+    "Event trays"
+   ],
+   "media": [
+    "the-entertainer-mitchells-event-trays",
+    "bacon-ranch-deviled-eggs-mitchells-restaurant-event-trays"
+   ],
+   "altText": [
+    "The Entertainer event tray of chicken tenders, chips and dips",
+    "Platter of bacon ranch deviled eggs"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Hosting a Halloween party this weekend?\n\nLet us bring the food. The Entertainer tray, bacon ranch deviled eggs and more, made fresh here in Cocoa.\n\nEvent trays need 24-48 hours notice, so call this week to lock in Saturday.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #HalloweenParty #EventTrays #Catering #PartyFood",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Hosting a Halloween party this weekend?\n\nLet us bring the food. The Entertainer tray, bacon ranch deviled eggs and more, made fresh here in Cocoa.\n\nEvent trays need 24-48 hours notice, so call this week to lock in Saturday.\n\nTag your party planner.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-28",
+   "date": "2026-10-28",
+   "weekday": "Wednesday",
+   "pillar": "Brunch tease",
+   "goal": "Halloween weekend brunch",
+   "headline": [
+    "Open on Halloween",
+    "7am-2pm"
+   ],
+   "media": [
+    "peanut-butter-bacon-berry-waffle-mitchells-restaurant-cocoa-florida"
+   ],
+   "altText": [
+    "Peanut Butter Bacon Explosion waffle with berries"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "19:30",
+     "text": "Halloween is Saturday, and so is brunch.\n\nWe're open 7am-2pm on Halloween. Fuel up with a waffle, an omelet and a mimosa before the trick-or-treating starts.\n\nSee you this weekend at Mitchell's.\n\n21+. Please drink responsibly.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #Halloween #HalloweenBrunch #WeekendBrunch #Waffles",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "19:30",
+     "text": "Halloween is Saturday, and so is brunch.\n\nWe're open 7am-2pm on Halloween. Fuel up with a waffle, an omelet and a mimosa before the trick-or-treating starts.\n\nSee you this weekend at Mitchell's.\n\n21+. Please drink responsibly.\n\nCostume at brunch: yes or no?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    },
+    "gbp": {
+     "time": "19:30",
+     "text": "We're open on Halloween, Saturday Oct 31, 7am-2pm. Weekend brunch Saturday and Sunday with waffles, omelets and mimosas.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "cta": "LEARN_MORE",
+     "url": "https://www.mitchellscocoa.com",
+     "media": [
+      "peanut-butter-bacon-berry-waffle-mitchells-restaurant-cocoa-florida"
+     ]
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-29",
+   "date": "2026-10-29",
+   "weekday": "Thursday",
+   "pillar": "Salads",
+   "goal": "Tomorrow's lunch",
+   "headline": "Fresh salads",
+   "media": [
+    "grilled-chicken-salad"
+   ],
+   "altText": [
+    "Grilled chicken salad with cheddar, egg, tomato and onion"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "19:30",
+     "text": "Tomorrow's lunch, for here or to go.\n\nGrilled chicken salad with cheddar, fresh tomatoes, onions and hard-boiled egg over a bed of romaine.\n\nSee you at Mitchell's tomorrow. Open 7am-2pm.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #FreshSalad #LunchTime #GrilledChicken #EatFresh",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "19:30",
+     "text": "Tomorrow's lunch, for here or to go.\n\nGrilled chicken salad with cheddar, fresh tomatoes, onions and hard-boiled egg over a bed of romaine.\n\nSee you at Mitchell's tomorrow. Open 7am-2pm.\n\nGrilled or fried chicken on your salad?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-30",
+   "date": "2026-10-30",
+   "weekday": "Friday",
+   "pillar": "Burgers",
+   "goal": "Friday lunch",
+   "headline": [
+    "Humpty Dumpty",
+    "Burger"
+   ],
+   "media": [
+    "humpty-dumpty-burger-mitchells-restaurant-cocoa-florida"
+   ],
+   "altText": [
+    "Humpty Dumpty burger with fried egg, bacon and American cheese"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "It's Friday. Put an egg on it.\n\nThe Humpty Dumpty: an 8 oz char grilled steak burger with a fried egg, two slices of bacon and American cheese.\n\nFresh, never frozen. Open 7am-2pm.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #Burgers #SteakBurger #FridayLunch #FreshNeverFrozen",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "It's Friday. Put an egg on it.\n\nThe Humpty Dumpty: an 8 oz char grilled steak burger with a fried egg, two slices of bacon and American cheese.\n\nFresh, never frozen. Open 7am-2pm.\n\nEgg on a burger: genius or too much?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    },
+    "gbp": {
+     "time": "07:15",
+     "text": "Friday lunch: the Humpty Dumpty burger, 8 oz char grilled with a fried egg, bacon and American cheese. Fresh, never frozen. Open 7am-2pm.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "cta": "LEARN_MORE",
+     "url": "https://www.mitchellscocoa.com",
+     "media": [
+      "humpty-dumpty-burger-mitchells-restaurant-cocoa-florida"
+     ]
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-31",
+   "date": "2026-10-31",
+   "weekday": "Saturday",
+   "pillar": "Holiday",
+   "goal": "Halloween brunch",
+   "headline": [
+    "Happy Halloween",
+    "Open 7am-2pm"
+   ],
+   "media": [
+    "spinach-shrimp-omelet"
+   ],
+   "altText": [
+    "Shrimp, spinach and provolone omelet with sliced tomatoes"
+   ],
+   "notes": "Swap in Frank's branded Halloween image from media/holiday-posts/ if one is there.",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Happy Halloween from Mitchell's.\n\nWe're open today, 7am-2pm. Treat yourself to brunch and mimosas before the tricks start.\n\nCostumes welcome.\n\n21+. Please drink responsibly.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #HappyHalloween #Halloween #SaturdayBrunch #Mimosas",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Happy Halloween from Mitchell's.\n\nWe're open today, 7am-2pm. Treat yourself to brunch and mimosas before the tricks start.\n\nCostumes welcome.\n\n21+. Please drink responsibly.\n\nWhat are you dressing up as?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-11-01",
+   "date": "2026-11-01",
+   "weekday": "Sunday",
+   "pillar": "Weekend brunch",
+   "goal": "Fall back Sunday brunch",
+   "headline": [
+    "Extra hour?",
+    "Spend it on brunch"
+   ],
+   "media": [
+    "veggie-omelet-mitchells-cocoa-florida"
+   ],
+   "altText": [
+    "Veggie omelet with grits"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Clocks fell back last night, which means one extra hour this morning.\n\nWe suggest spending it on brunch. Veggie omelet with onions, tomatoes, peppers, mushrooms and American cheese, with grits on the side.\n\nBrunch and mimosas today, 7am-2pm.\n\n21+. Please drink responsibly.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #FallBack #SundayBrunch #Omelets #Mimosas",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Clocks fell back last night, which means one extra hour this morning.\n\nWe suggest spending it on brunch. Veggie omelet with onions, tomatoes, peppers, mushrooms and American cheese, with grits on the side.\n\nBrunch and mimosas today, 7am-2pm.\n\n21+. Please drink responsibly.\n\nHow are you spending your extra hour?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  }
+ ]
+}

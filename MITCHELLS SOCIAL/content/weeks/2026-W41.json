@@ -1,0 +1,144 @@
+{
+ "week": "2026-W41",
+ "client": "Mitchell's Restaurant",
+ "locationId": "McxtZDLFfQXmRr0Nx1gb",
+ "timezone": "America/New_York",
+ "status": "draft",
+ "posts": [
+  {
+   "id": "mitchells-2026-10-08",
+   "date": "2026-10-08",
+   "weekday": "Thursday",
+   "pillar": "See you tomorrow",
+   "goal": "Tomorrow's breakfast",
+   "headline": "See you at Mitchell's",
+   "media": [
+    "country-fried-chicken-breakfast-mitchells-cocoa"
+   ],
+   "altText": [
+    "Country fried chicken with sausage gravy, eggs, hash browns and a biscuit"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "20:30",
+     "text": "Country fried chicken, sausage gravy made from scratch, two eggs your way, hash browns and a biscuit.\n\nThat's tomorrow morning sorted. Doors open at 7am.\n\nSee you at Mitchell's.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #FloridaBreakfast #SouthernBreakfast #CountryFriedChicken #BreakfastTime",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "20:30",
+     "text": "Country fried chicken, sausage gravy made from scratch, two eggs your way, hash browns and a biscuit.\n\nThat's tomorrow morning sorted. Doors open at 7am.\n\nSee you at Mitchell's.\n\nWhat are you ordering first?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-09",
+   "date": "2026-10-09",
+   "weekday": "Friday",
+   "pillar": "Omelets",
+   "goal": "World Egg Day traffic",
+   "headline": [
+    "World Egg Day",
+    "Four-egg omelets"
+   ],
+   "media": [
+    "garbage-can-omelet-mitchells-cocoa-florida",
+    "wild-western-omelet-mitchells-cocoa-florida"
+   ],
+   "altText": [
+    "Garbage Can omelet loaded with meats, veggies and American cheese",
+    "Wild Western omelet with home fries"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Happy World Egg Day.\n\nWe celebrate with four eggs at a time. The Garbage Can Omelet comes loaded with bacon, sausage, ham, onions, peppers, tomatoes, mushrooms and American cheese. The Wild Western brings smoked applewood ham, onions and green peppers.\n\nPeople drive in from Melbourne for these. Open today 7am-2pm.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #WorldEggDay #Omelets #BreakfastAndBrunch #FloridaBreakfast",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Happy World Egg Day.\n\nWe celebrate with four eggs at a time. The Garbage Can Omelet comes loaded with bacon, sausage, ham, onions, peppers, tomatoes, mushrooms and American cheese. The Wild Western brings smoked applewood ham, onions and green peppers.\n\nPeople drive in from Melbourne for these. Open today 7am-2pm.\n\nGarbage Can or Wild Western?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    },
+    "gbp": {
+     "time": "07:15",
+     "text": "Happy World Egg Day. Celebrate with a four-egg omelet, from the loaded Garbage Can Omelet to the Wild Western. Breakfast served 7am-2pm every day in Cocoa.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "cta": "LEARN_MORE",
+     "url": "https://www.mitchellscocoa.com",
+     "media": [
+      "garbage-can-omelet-mitchells-cocoa-florida"
+     ]
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-10",
+   "date": "2026-10-10",
+   "weekday": "Saturday",
+   "pillar": "Weekend brunch",
+   "goal": "Saturday brunch + mimosas",
+   "headline": [
+    "Weekend brunch",
+    "Mimosas are poured"
+   ],
+   "media": [
+    "mimosas-mitchells",
+    "strawberry-blueberry-waffle-mitchells-restaurant"
+   ],
+   "altText": [
+    "Two mimosas garnished with fresh strawberries",
+    "Berries and cream waffle with strawberries and blueberries"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Saturday brunch is on.\n\nMimosas by the glass or the pitcher, and a fresh-made waffle piled with strawberries, blueberries and whipped cream to go with them.\n\nWe're open 7am-2pm. Bring the crew.\n\n21+. Please drink responsibly.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #Mimosas #SaturdayBrunch #BrunchTime #Waffles #BrunchAndMimosas",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Saturday brunch is on.\n\nMimosas by the glass or the pitcher, and a fresh-made waffle piled with strawberries, blueberries and whipped cream to go with them.\n\nWe're open 7am-2pm. Bring the crew.\n\n21+. Please drink responsibly.\n\nGlass or pitcher?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-11",
+   "date": "2026-10-11",
+   "weekday": "Sunday",
+   "pillar": "Weekend brunch",
+   "goal": "Sunday brunch",
+   "headline": "Sunday brunch",
+   "media": [
+    "southern-skillet-mitchells-restaurant-cocoa-florida-1000"
+   ],
+   "altText": [
+    "Southern skillet topped with two eggs"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Sunday brunch looks like this.\n\nThe Southern Skillet: home fries or hash browns smothered in grilled onions, green peppers and sausage gravy, your choice of bacon, sausage or ham, and two eggs on top.\n\nBrunch and mimosas today, 7am-2pm.\n\n21+. Please drink responsibly.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #SundayBrunch #SouthernSkillet #BrunchTime #Mimosas",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Sunday brunch looks like this.\n\nThe Southern Skillet: home fries or hash browns smothered in grilled onions, green peppers and sausage gravy, your choice of bacon, sausage or ham, and two eggs on top.\n\nBrunch and mimosas today, 7am-2pm.\n\n21+. Please drink responsibly.\n\nWho are you bringing to brunch?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  }
+ ]
+}

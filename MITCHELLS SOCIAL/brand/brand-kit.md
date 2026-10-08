@@ -15,6 +15,8 @@ Sources: Frank (2026-10-08) and a full read of www.MitchellsCocoa.com (18 pages,
 | Holidays | Open 7am-2pm on every holiday **except Thanksgiving (closed)** |
 | Weekend brunch | Yes, Saturday & Sunday |
 | Delivery | **No delivery.** Dine in, take out, call-ahead pickup only |
+| Describe as | Breakfast, Brunch, Lunch, Mimosas |
+| Drinks | Mimosas (never name a flavor) and bottled beer only |
 | Known for | Champagne mimosas (Frank: "famous for mimosas") |
 | Location | Cocoa, FL. Never say "Cocoa Village". |
 | Ownership | Local, family owned & operated; "born and raised in Cocoa, Florida" |
@@ -60,7 +62,7 @@ www.MitchellsCocoa.com
 
 ## Menu (named items to feature)
 
-**Mimosas:** orange juice or "flavor of the week", by the glass or pitcher. Bottled beer available. Site also mentions draft beer and wine. Always include "21+, please drink responsibly" wording on alcohol posts.
+**Mimosas:** by the glass or pitcher. Just say "mimosas", never a flavor. Bottled beer only (no draft, no wine). Always include "21+, please drink responsibly" wording on alcohol posts.
 
 **Breakfast (7am-2pm every day):** Build Your Own Breakfast (2 eggs your way, hash browns / home fries / grits / sliced tomatoes, toast or biscuit); Southern Skillet; country fried chicken with sausage gravy, eggs, hash browns & biscuit; corned beef hash with eggs & cheese grits; egg whites with grilled chicken & tomatoes; beer battered haddock with eggs & cheese grits; oatmeal & fruit cup; pancakes; French toast.
 
@@ -86,7 +88,7 @@ www.MitchellsCocoa.com
 
 **Kids:** One, One, One; French toast sticks; silver dollar pancakes; chicken tenders; grilled cheese (11 and under).
 
-**Trays (lunch/dinner):** Jumbo Shrimp Tray; Frank's Buffalo Chicken Tender Tray; Chicken Tender & Gravy Tray; Kicken Bourbon Chicken Tenders.
+**Trays:** Jumbo Shrimp Tray; Frank's Buffalo Chicken Tender Tray; Chicken Tender & Gravy Tray; Kicken Bourbon Chicken Tenders.
 
 **Event trays (catering):** Biscuit Sandwich Trays (15 large half biscuit sandwiches); The Spread (serves 32+ meals or 60+ appetizers); The Entertainer; Chicken & Cheddar Salad Tray; Erica's Famous Fried Chicken & Cheese Sandwich Tray. Perfect for office picnics, luncheons, sports events, birthdays, movie nights, family gatherings. **24-48 hr notice and a 50% non-refundable deposit.** Call ahead: 321.338.2909.
 
@@ -109,7 +111,7 @@ Warm, hometown, a little playful and hungry: "southern comfort deliciousness", "
 
 Fonts on the site: Oswald (condensed headlines), Archivo, Open Sans (body). The logo is a black script "Mitchell's" with a red-and-white pin-up waitress mascot.
 
-Logo file: `media/website/Mitchells-logo-web.png` (716 x 238, transparent). That's small for a badge at 37.5% of the photo; ask Frank for a larger logo file.
+Logo file: `media/logos/mitchells-logo-wide.png` (2000 x 691, transparent, from Frank). It's a wide script wordmark, so instead of a round badge it sits on a white rounded plate with a thin Mitchell's-red edge, so it reads on any photo.
 
 ## Hashtags (starting set)
 
@@ -125,12 +127,18 @@ Logo file: `media/website/Mitchells-logo-web.png` (716 x 238, transparent). That
 - Delivery: no. Never mention delivery (the website's Call Ahead graphic is outdated).
 - Holidays: open 7am-2pm on all holidays except Thanksgiving, which is closed. Thanksgiving posts say closed and invite people back Friday.
 
-## Check with Frank
+## Answered by Frank (2026-10-08, second round)
 
-1. **Phone typo on the website:** the Contact page says `321.238.2909`; everywhere else says `321.338.2909`. Tell the client.
-2. **Outdated website text:** the homepage still says hours are 7am-2pm "during the pandemic" and mentions "breakfast, lunch and dinner". Do we say "breakfast, brunch & lunch" in posts?
-3. **Mimosa flavor of the week:** still running? Can posts name a flavor?
-4. **Draft beer and wine:** the site says so in one place; the Beverages page only lists bottled beer.
-5. **Erica:** can posts mention who Erica is, or only use the dish names?
-6. **Giveaways / email promos:** the site has an email sign-up with giveaways. Promote it or not?
-7. **Larger logo file** for the badge.
+- Describe Mitchell's as **Breakfast, Brunch, Lunch, Mimosas**. Never "dinner".
+- Mimosas: always just "mimosas". Never name a flavor (no "flavor of the week") unless Frank says so.
+- Drinks: **bottled beer only**. No draft beer, no wine.
+- Erica: don't mention her as a person. Dish names that include her name (Erica's Famous Chicken Sandwich, Erica's Favorite waffle) are fine.
+- Email sign-up and giveaways: **do not promote**.
+- Logo: Frank supplied the full logo (`media/logos/mitchells-logo-wide.png`, 2000 x 691, transparent). It must always sit somewhere **easy to read**.
+- Start posting **today** (Thu Oct 8, 2026).
+- Evening posts say things like "See you at Mitchell's" (tomorrow, this weekend). Midweek evening posts push **weekend brunch**.
+
+## Still to tell the client
+
+- Website Contact page phone typo: `321.238.2909` should be `321.338.2909`.
+- Website homepage still says "during the pandemic" and mentions dinner and delivery.

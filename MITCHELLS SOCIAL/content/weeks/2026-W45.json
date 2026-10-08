@@ -1,0 +1,221 @@
+{
+ "week": "2026-W45",
+ "client": "Mitchell's Restaurant",
+ "locationId": "McxtZDLFfQXmRr0Nx1gb",
+ "timezone": "America/New_York",
+ "status": "draft",
+ "posts": [
+  {
+   "id": "mitchells-2026-11-02",
+   "date": "2026-11-02",
+   "weekday": "Monday",
+   "pillar": "Comfort food",
+   "goal": "Weekday lunch",
+   "headline": "Fully loaded chili",
+   "media": [
+    "bowl-of-chili-mitchells-sides"
+   ],
+   "altText": [
+    "Fully loaded bowl of chili with jalapenos, bacon, cheddar and sour cream"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Fully loaded.\n\nA bowl of chili topped with jalapenos, bacon, cheddar and sour cream. Have it on its own or as your side.\n\nLunch is served until 2pm.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #Chili #ComfortFood #LunchTime #SouthernFood",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Fully loaded.\n\nA bowl of chili topped with jalapenos, bacon, cheddar and sour cream. Have it on its own or as your side.\n\nLunch is served until 2pm.\n\nBeans in chili: yes or no?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    },
+    "gbp": {
+     "time": "07:15",
+     "text": "A fully loaded bowl of chili with jalapenos, bacon, cheddar and sour cream. Breakfast, brunch and lunch every day, 7am-2pm.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "cta": "LEARN_MORE",
+     "url": "https://www.mitchellscocoa.com",
+     "media": [
+      "bowl-of-chili-mitchells-sides"
+     ]
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-11-03",
+   "date": "2026-11-03",
+   "weekday": "Tuesday",
+   "pillar": "Sandwiches",
+   "goal": "National Sandwich Day",
+   "headline": [
+    "National",
+    "Sandwich Day"
+   ],
+   "media": [
+    "mitchells-club-sandwich",
+    "kicken-bourbon-chicken-mitchells-restaurant-cocoa-florida"
+   ],
+   "altText": [
+    "Mitchell's club sandwich with fries",
+    "Kicken Bourbon chicken melt on grilled rye"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Happy National Sandwich Day.\n\nThe Mitchell's Club, stacked with bacon, lettuce, tomato and mayo. Or the Kicken Bourbon Chicken Melt with grilled onions and provolone on grilled rye.\n\nCome celebrate, 7am-2pm.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #NationalSandwichDay #ClubSandwich #LunchTime #Sandwiches",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Happy National Sandwich Day.\n\nThe Mitchell's Club, stacked with bacon, lettuce, tomato and mayo. Or the Kicken Bourbon Chicken Melt with grilled onions and provolone on grilled rye.\n\nCome celebrate, 7am-2pm.\n\nClub or melt?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-11-04",
+   "date": "2026-11-04",
+   "weekday": "Wednesday",
+   "pillar": "Brunch tease",
+   "goal": "Midweek push for weekend brunch",
+   "headline": [
+    "Shrimp & salad",
+    "Weekend brunch"
+   ],
+   "media": [
+    "shrimp-salad-mitchells-cocoa"
+   ],
+   "altText": [
+    "Grilled jumbo shrimp salad"
+   ],
+   "notes": "No waffle or brunch photos left unused this month; Frank's branded brunch images can replace this.",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "19:30",
+     "text": "The weekend is almost here.\n\nBrunch at Mitchell's is Saturday and Sunday, 7am-2pm. Prefer something lighter? Our grilled jumbo shrimp salad pairs nicely with a mimosa.\n\nSee you this weekend.\n\n21+. Please drink responsibly.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #WeekendBrunch #BrunchPlans #ShrimpSalad #Mimosas",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "19:30",
+     "text": "The weekend is almost here.\n\nBrunch at Mitchell's is Saturday and Sunday, 7am-2pm. Prefer something lighter? Our grilled jumbo shrimp salad pairs nicely with a mimosa.\n\nSee you this weekend.\n\n21+. Please drink responsibly.\n\nWho's your brunch buddy?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    },
+    "gbp": {
+     "time": "19:30",
+     "text": "Weekend brunch is Saturday and Sunday, 7am-2pm, with mimosas. Grilled jumbo shrimp salad, omelets, waffles and more.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "cta": "LEARN_MORE",
+     "url": "https://www.mitchellscocoa.com",
+     "media": [
+      "shrimp-salad-mitchells-cocoa"
+     ]
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-11-05",
+   "date": "2026-11-05",
+   "weekday": "Thursday",
+   "pillar": "Entrees",
+   "goal": "Tomorrow's lunch",
+   "headline": "Sirloin for lunch",
+   "media": [
+    "sirloin-steak-entrees-mitchells-cocoa-florida"
+   ],
+   "altText": [
+    "Char grilled sirloin steak with green beans"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "19:30",
+     "text": "Make tomorrow's lunch a steak lunch.\n\nUSDA Choice 8 oz sirloin, char grilled to perfection. Add five shrimp, because shrimp goes with everything.\n\nSee you at Mitchell's tomorrow. Open 7am-2pm.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #Steak #Sirloin #LunchTime #SurfAndTurf",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "19:30",
+     "text": "Make tomorrow's lunch a steak lunch.\n\nUSDA Choice 8 oz sirloin, char grilled to perfection. Add five shrimp, because shrimp goes with everything.\n\nSee you at Mitchell's tomorrow. Open 7am-2pm.\n\nHow do you like your steak?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-11-06",
+   "date": "2026-11-06",
+   "weekday": "Friday",
+   "pillar": "Lunch trays",
+   "goal": "Friday lunch",
+   "headline": "Jumbo shrimp tray",
+   "media": [
+    "jumbo-shrimp-tray-mitchells-cocoa-florida"
+   ],
+   "altText": [
+    "Jumbo shrimp tray with fries, hush puppies and a pickle spear"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Friday calls for shrimp.\n\nTen white jumbo shrimp, hand breaded and fried golden brown, with three hush puppies, fries and a pickle spear. Try it Frank's Buffalo style.\n\nOpen 7am-2pm. Dine in or call ahead for pickup.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #Shrimp #FriedShrimp #FridayLunch #Seafood",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Friday calls for shrimp.\n\nTen white jumbo shrimp, hand breaded and fried golden brown, with three hush puppies, fries and a pickle spear. Try it Frank's Buffalo style.\n\nOpen 7am-2pm. Dine in or call ahead for pickup.\n\nCocktail sauce or Buffalo?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    },
+    "gbp": {
+     "time": "07:15",
+     "text": "Friday lunch: the jumbo shrimp tray with ten hand-breaded shrimp, hush puppies and fries. Dine in or call ahead for pickup, 7am-2pm.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "cta": "CALL",
+     "url": "https://www.mitchellscocoa.com",
+     "media": [
+      "jumbo-shrimp-tray-mitchells-cocoa-florida"
+     ]
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-11-07",
+   "date": "2026-11-07",
+   "weekday": "Saturday",
+   "pillar": "Weekend brunch",
+   "goal": "Saturday brunch",
+   "headline": [
+    "Kicken Bourbon",
+    "Chicken"
+   ],
+   "media": [
+    "kicken-bourbon-chicken-entrees-mitchells-cocoa-florida"
+   ],
+   "altText": [
+    "Kicken Bourbon chicken with grilled onions and mushrooms"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Saturday brunch, the savory way.\n\nKicken Bourbon Chicken: half a pound of grilled chicken breast smothered in sauteed onions and mushrooms and glazed in our own bourbon sauce.\n\nBrunch and mimosas today, 7am-2pm.\n\n21+. Please drink responsibly.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #SaturdayBrunch #KickenBourbon #Mimosas #BrunchTime",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Saturday brunch, the savory way.\n\nKicken Bourbon Chicken: half a pound of grilled chicken breast smothered in sauteed onions and mushrooms and glazed in our own bourbon sauce.\n\nBrunch and mimosas today, 7am-2pm.\n\n21+. Please drink responsibly.\n\nSweet or savory brunch?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  }
+ ]
+}

@@ -1,0 +1,258 @@
+{
+ "week": "2026-W43",
+ "client": "Mitchell's Restaurant",
+ "locationId": "McxtZDLFfQXmRr0Nx1gb",
+ "timezone": "America/New_York",
+ "status": "draft",
+ "posts": [
+  {
+   "id": "mitchells-2026-10-19",
+   "date": "2026-10-19",
+   "weekday": "Monday",
+   "pillar": "Breakfast",
+   "goal": "Lighter breakfast option",
+   "headline": "Lighter side",
+   "media": [
+    "oatmeal-fruit-cup-mitchells-cocoa-florida-32922",
+    "egg-whites-sliced-tomatoes-grilled-chicken-breast-mitchells-cocoa-florida"
+   ],
+   "altText": [
+    "Oatmeal with a fresh fruit cup of strawberries, bananas and blueberries",
+    "Egg whites, sliced tomatoes and grilled chicken breast with toast"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Keeping it light this week?\n\nWarm oatmeal with a fresh-cut fruit cup of strawberries, bananas and blueberries. Or egg whites with sliced tomatoes and a grilled chicken breast.\n\nWe have something for everyone, 7am-2pm every day.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #HealthyBreakfast #FreshFruit #FloridaBreakfast #BreakfastTime",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Keeping it light this week?\n\nWarm oatmeal with a fresh-cut fruit cup of strawberries, bananas and blueberries. Or egg whites with sliced tomatoes and a grilled chicken breast.\n\nWe have something for everyone, 7am-2pm every day.\n\nOatmeal or egg whites?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    },
+    "gbp": {
+     "time": "07:15",
+     "text": "Lighter breakfast options every day: oatmeal with a fresh-cut fruit cup, or egg whites with sliced tomatoes and grilled chicken. Open 7am-2pm.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "cta": "LEARN_MORE",
+     "url": "https://www.mitchellscocoa.com",
+     "media": [
+      "oatmeal-fruit-cup-mitchells-cocoa-florida-32922"
+     ]
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-20",
+   "date": "2026-10-20",
+   "weekday": "Tuesday",
+   "pillar": "Chicken",
+   "goal": "Fresh never frozen chicken",
+   "headline": [
+    "Fresh, never frozen",
+    "Popeye Grilled Chicken"
+   ],
+   "media": [
+    "popeye-grilled-chicken-mitchells-restaurant-cocoa-florida"
+   ],
+   "altText": [
+    "Popeye grilled chicken sandwich with spinach, bacon and provolone"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Our chicken is fresh, never frozen, and made to order.\n\nThe Popeye Grilled Chicken sandwich: grilled chicken breast with spinach, two slices of bacon and cheese on a soft bun.\n\nFreshness makes all the difference. Lunch today, 7am-2pm.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #FreshNeverFrozen #ChickenSandwich #LunchTime #GrilledChicken",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Our chicken is fresh, never frozen, and made to order.\n\nThe Popeye Grilled Chicken sandwich: grilled chicken breast with spinach, two slices of bacon and cheese on a soft bun.\n\nFreshness makes all the difference. Lunch today, 7am-2pm.\n\nGrilled or fried? Pick a side.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-21",
+   "date": "2026-10-21",
+   "weekday": "Wednesday",
+   "pillar": "Brunch tease",
+   "goal": "Midweek push for weekend brunch",
+   "headline": [
+    "Erica's Favorite",
+    "Weekend brunch"
+   ],
+   "media": [
+    "banana-peanut-butter-waffle-mitchells-restaurant"
+   ],
+   "altText": [
+    "Erica's Favorite waffle with sliced bananas, peanut butter and chocolate drizzle"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "19:30",
+     "text": "Already thinking about Saturday?\n\nErica's Favorite waffle: sliced bananas, peanut butter and chocolate syrup on a waffle made fresh to order.\n\nWeekend brunch with mimosas, Saturday and Sunday, 7am-2pm. See you at Mitchell's.\n\n21+. Please drink responsibly.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #Waffles #WeekendBrunch #BrunchPlans #PeanutButter",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "19:30",
+     "text": "Already thinking about Saturday?\n\nErica's Favorite waffle: sliced bananas, peanut butter and chocolate syrup on a waffle made fresh to order.\n\nWeekend brunch with mimosas, Saturday and Sunday, 7am-2pm. See you at Mitchell's.\n\n21+. Please drink responsibly.\n\nBananas and peanut butter: yes or no?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    },
+    "gbp": {
+     "time": "19:30",
+     "text": "Weekend brunch is Saturday and Sunday, 7am-2pm. Try Erica's Favorite waffle with bananas, peanut butter and chocolate syrup.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "cta": "LEARN_MORE",
+     "url": "https://www.mitchellscocoa.com",
+     "media": [
+      "banana-peanut-butter-waffle-mitchells-restaurant"
+     ]
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-22",
+   "date": "2026-10-22",
+   "weekday": "Thursday",
+   "pillar": "Location",
+   "goal": "Space Coast visitors",
+   "headline": [
+    "On US-1 in Cocoa",
+    "See you tomorrow"
+   ],
+   "media": [
+    "mitchells-restaurant-cocoa-florida-1400-n-cocoa-blvd"
+   ],
+   "altText": [
+    "Mitchell's Restaurant storefront on N Cocoa Blvd"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "19:30",
+     "text": "Heading to the beach or catching a launch this weekend?\n\nWe're right on US-1 in Cocoa, between the 520 and the 528 and close to I-95. The most delicious stop on the way to the Atlantic.\n\nBreakfast, brunch, lunch and mimosas, 7am-2pm every day. See you at Mitchell's.\n\n21+. Please drink responsibly.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #VisitSpaceCoast #CocoaBeach #CapeCanaveral #RoadTripFood",
+     "firstComment": "",
+     "media": [
+      "southern-belle-burger-mitchells-restaurant-cocoa-florida"
+     ]
+    },
+    "facebook": {
+     "time": "19:30",
+     "text": "Heading to the beach or catching a launch this weekend?\n\nWe're right on US-1 in Cocoa, between the 520 and the 528 and close to I-95. The most delicious stop on the way to the Atlantic.\n\nBreakfast, brunch, lunch and mimosas, 7am-2pm every day. See you at Mitchell's.\n\n21+. Please drink responsibly.\n\nWhere are you headed this weekend?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-23",
+   "date": "2026-10-23",
+   "weekday": "Friday",
+   "pillar": "Apps",
+   "goal": "Friday lunch",
+   "headline": [
+    "Fried jalapenos",
+    "Fried pickles"
+   ],
+   "media": [
+    "fried-jalapenos-mitchells-cocoa-apps-1",
+    "fried-pickles-mitchells-cocoa-apps"
+   ],
+   "altText": [
+    "Basket of fried jalapenos with ranch",
+    "Fried pickles with dipping sauce"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Friday lunch deserves an appetizer.\n\nFried jalapenos with ranch, fried pickles with dipping sauce, or both. We won't judge.\n\nOpen 7am-2pm. Come hungry.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #FriedPickles #FriedJalapenos #Appetizers #FridayLunch",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Friday lunch deserves an appetizer.\n\nFried jalapenos with ranch, fried pickles with dipping sauce, or both. We won't judge.\n\nOpen 7am-2pm. Come hungry.\n\nJalapenos or pickles?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    },
+    "gbp": {
+     "time": "07:15",
+     "text": "Friday lunch at Mitchell's: start with fried jalapenos or fried pickles, then a steak burger or fresh chicken sandwich. Open 7am-2pm in Cocoa.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "cta": "LEARN_MORE",
+     "url": "https://www.mitchellscocoa.com",
+     "media": [
+      "fried-jalapenos-mitchells-cocoa-apps-1"
+     ]
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-24",
+   "date": "2026-10-24",
+   "weekday": "Saturday",
+   "pillar": "Weekend brunch",
+   "goal": "Saturday brunch",
+   "headline": "Deluxe Chicken Biscuit",
+   "media": [
+    "chicken-biscuit-sandwich-mitchells-brevard-county-florida"
+   ],
+   "altText": [
+    "Deluxe chicken biscuit with bacon and American cheese"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "The Deluxe Chicken Biscuit.\n\nA boneless chicken breast, hand breaded and fried, with American cheese, an egg and two slices of bacon on a biscuit.\n\nSaturday brunch and mimosas, 7am-2pm.\n\n21+. Please drink responsibly.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #ChickenBiscuit #SaturdayBrunch #BreakfastSandwich #Mimosas",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "The Deluxe Chicken Biscuit.\n\nA boneless chicken breast, hand breaded and fried, with American cheese, an egg and two slices of bacon on a biscuit.\n\nSaturday brunch and mimosas, 7am-2pm.\n\n21+. Please drink responsibly.\n\nRate this biscuit 1 to 10.\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  },
+  {
+   "id": "mitchells-2026-10-25",
+   "date": "2026-10-25",
+   "weekday": "Sunday",
+   "pillar": "Weekend brunch",
+   "goal": "Sunday brunch",
+   "headline": "Sunday brunch",
+   "media": [
+    "haddock-breakfast-mitchells-cocoa"
+   ],
+   "altText": [
+    "Beer battered haddock with two eggs, cheese grits and toast"
+   ],
+   "notes": "",
+   "approved": false,
+   "variants": {
+    "instagram": {
+     "time": "07:00",
+     "text": "Something different for Sunday brunch.\n\nBeer battered haddock, fried golden, with two eggs, cheese grits and toast.\n\nBrunch and mimosas today, 7am-2pm.\n\n21+. Please drink responsibly.\n\n321.338.2909\nwww.MitchellsCocoa.com\n\n#MitchellsCocoa #CocoaFL #BrevardCounty #SpaceCoast #SpaceCoastEats #SundayBrunch #SouthernBreakfast #Mimosas #BrunchTime",
+     "firstComment": ""
+    },
+    "facebook": {
+     "time": "07:00",
+     "text": "Something different for Sunday brunch.\n\nBeer battered haddock, fried golden, with two eggs, cheese grits and toast.\n\nBrunch and mimosas today, 7am-2pm.\n\n21+. Please drink responsibly.\n\nEver had fish for breakfast?\n\n321.338.2909\nwww.MitchellsCocoa.com",
+     "link": "https://www.mitchellscocoa.com"
+    }
+   },
+   "results": {}
+  }
+ ]
+}

@@ -67,7 +67,7 @@
    "igFeedOk": true,
    "fit": "cover",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "bottom-right",
    "lastUsed": null
   },
   {
@@ -152,7 +152,7 @@
    "igFeedOk": true,
    "fit": "cover",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "top-right",
    "lastUsed": null
   },
   {
@@ -271,7 +271,7 @@
    "igFeedOk": true,
    "fit": "cover",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "top-right",
    "lastUsed": null
   },
   {
@@ -288,7 +288,7 @@
    "igFeedOk": true,
    "fit": "cover",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "top-right",
    "lastUsed": null
   },
   {
@@ -339,7 +339,7 @@
    "igFeedOk": true,
    "fit": "cover",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "top-right",
    "lastUsed": null
   },
   {
@@ -509,7 +509,7 @@
    "igFeedOk": true,
    "fit": "cover",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "top-left",
    "lastUsed": null
   },
   {
@@ -560,7 +560,7 @@
    "igFeedOk": true,
    "fit": "cover",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "bottom-right",
    "lastUsed": null
   },
   {
@@ -662,7 +662,7 @@
    "igFeedOk": true,
    "fit": "cover",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "top-left",
    "lastUsed": null
   },
   {
@@ -730,7 +730,7 @@
    "igFeedOk": true,
    "fit": "cover",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "top-right",
    "lastUsed": null
   },
   {
@@ -778,10 +778,10 @@
    "altText": "Mitchell's Restaurant storefront on N Cocoa Blvd",
    "authentic": true,
    "source": "mitchellscocoa.com (2020 shoot)",
-   "igFeedOk": true,
-   "fit": "cover",
+   "igFeedOk": false,
+   "fit": "contain",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "top-left",
    "lastUsed": null
   },
   {
@@ -815,7 +815,7 @@
    "igFeedOk": true,
    "fit": "cover",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "bottom-right",
    "lastUsed": null
   },
   {
@@ -866,7 +866,7 @@
    "igFeedOk": true,
    "fit": "cover",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "top-right",
    "lastUsed": null
   },
   {
@@ -951,7 +951,7 @@
    "igFeedOk": true,
    "fit": "cover",
    "hasLogo": false,
-   "logoSpot": null,
+   "logoSpot": "top-right",
    "lastUsed": null
   },
   {
