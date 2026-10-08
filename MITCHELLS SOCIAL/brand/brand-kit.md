@@ -12,6 +12,9 @@ Sources: Frank (2026-10-08) and a full read of www.MitchellsCocoa.com (18 pages,
 | Website | www.MitchellsCocoa.com |
 | Email | waffles@mitchellscocoa.com |
 | Hours | 7am-2pm, every day (from Frank) |
+| Holidays | Open 7am-2pm on every holiday **except Thanksgiving (closed)** |
+| Weekend brunch | Yes, Saturday & Sunday |
+| Delivery | **No delivery.** Dine in, take out, call-ahead pickup only |
 | Known for | Champagne mimosas (Frank: "famous for mimosas") |
 | Location | Cocoa, FL. Never say "Cocoa Village". |
 | Ownership | Local, family owned & operated; "born and raised in Cocoa, Florida" |
@@ -61,7 +64,7 @@ www.MitchellsCocoa.com
 
 **Breakfast (7am-2pm every day):** Build Your Own Breakfast (2 eggs your way, hash browns / home fries / grits / sliced tomatoes, toast or biscuit); Southern Skillet; country fried chicken with sausage gravy, eggs, hash browns & biscuit; corned beef hash with eggs & cheese grits; egg whites with grilled chicken & tomatoes; beer battered haddock with eggs & cheese grits; oatmeal & fruit cup; pancakes; French toast.
 
-**Brunch:** "Brunch specialties on Saturday and Sunday"; hollandaise is Sat & Sun brunch only.
+**Brunch (confirmed by Frank):** brunch specialties every Saturday and Sunday; hollandaise is Sat & Sun brunch only.
 
 **Breakfast sandwiches:** Deluxe Chicken Biscuit; Breakfast Burrito; Two Egg Sandwich; BLT.
 
@@ -116,15 +119,18 @@ Logo file: `media/website/Mitchells-logo-web.png` (716 x 238, transparent). That
 
 `media/catalog.json`: 62 usable website photos (all real Mitchell's dishes from a 2020 professional shoot, no people), 31 excluded with reasons. Categories: trays 12, breakfast 8, apps 7, burgers 6, chicken 6, waffles 5, salads 5, entrees 4, omelets 4, sides 3, mimosas 1, storefront 1. Only one mimosa photo, so Frank's branded posts should carry the mimosa content.
 
+## Answered by Frank (2026-10-08)
+
+- Weekend brunch: yes, Saturday & Sunday.
+- Delivery: no. Never mention delivery (the website's Call Ahead graphic is outdated).
+- Holidays: open 7am-2pm on all holidays except Thanksgiving, which is closed. Thanksgiving posts say closed and invite people back Friday.
+
 ## Check with Frank
 
 1. **Phone typo on the website:** the Contact page says `321.238.2909`; everywhere else says `321.338.2909`. Tell the client.
 2. **Outdated website text:** the homepage still says hours are 7am-2pm "during the pandemic" and mentions "breakfast, lunch and dinner". Do we say "breakfast, brunch & lunch" in posts?
-3. **Weekend brunch** is still Saturday & Sunday?
-4. **Mimosa flavor of the week:** still running? Can posts name a flavor?
-5. **Delivery:** the Call Ahead graphic says "Pickup or Delivery". Still offered?
-6. **Draft beer and wine:** the site says so in one place; the Beverages page only lists bottled beer.
-7. **Erica:** can posts mention who Erica is, or only use the dish names?
-8. **Holidays:** which ones is Mitchell's open on, and are hours normal?
-9. **Giveaways / email promos:** the site has an email sign-up with giveaways. Promote it or not?
-10. **Larger logo file** for the badge.
+3. **Mimosa flavor of the week:** still running? Can posts name a flavor?
+4. **Draft beer and wine:** the site says so in one place; the Beverages page only lists bottled beer.
+5. **Erica:** can posts mention who Erica is, or only use the dish names?
+6. **Giveaways / email promos:** the site has an email sign-up with giveaways. Promote it or not?
+7. **Larger logo file** for the badge.
