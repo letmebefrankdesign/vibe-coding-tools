@@ -4,16 +4,20 @@ Run on Frank's PC: open a terminal in `C:\Users\User\___DEV-FRANK-NUNO-KAILA`, s
 
 ```
 Read CLIENT-SOCIAL-PLAYBOOK.md in this workspace, then set up the weekly social
-planning system for MITCHELL'S RESTAURANT using MR SUSHI SOCIAL as the template.
+planning system for MITCHELL'S RESTAURANT in the MITCHELLS SOCIAL folder using MR SUSHI SOCIAL as the template.
 
 - HighLevel sub-account: Mitchell's Restaurant (locationId McxtZDLFfQXmRr0Nx1gb)
-- Website: pull it from the sub-account (get-location) and confirm with me
-- Photos: Mitchell's HighLevel media library. Mr Sushi's library also holds ~37
+- Folder: MITCHELLS SOCIAL already exists with brand/brand-kit.md (confirmed facts,
+  read it first) and media/previous-posts/ (my past posts, already carrying the
+  Mitchell's logo: catalog them with hasLogo: true, use them for voice and style)
+- Facts: 1400 N Cocoa Blvd, Cocoa, FL 32922 · 321.338.2909 · www.MitchellsCocoa.com
+  · Open 7am-2pm every day
+- Website: review www.MitchellsCocoa.com, plus Mitchell's Facebook and Instagram
+  (find them via Social Planner get-account)
+- Photos: media/previous-posts/ plus Mitchell's HighLevel media library. Mr Sushi's library also holds ~37
   Mitchell's photos (omelets, burgers, salads, fries); check them, but only use
   photos that are definitely Mitchell's
-- Contact line for every caption: pull the phone + website from the sub-account,
-  format as <phone with dots> / <www.Website.com> on two lines (no icons), and
-  confirm it with me before drafting
+- Contact line for every caption: 321.338.2909 / www.MitchellsCocoa.com (two lines, no icons)
 - Posting: daily IG + FB, GBP Mon/Wed/Fri, start the day after I approve
 - Topics to focus on: all of them (signature dishes, breakfast/brunch,
   catering & takeout, atmosphere & team, seasonal)
