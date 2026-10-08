@@ -1,0 +1,1310 @@
+{
+ "generated": "2026-10-08",
+ "note": "Website photos only. Frank's branded posts (previous-posts/, holiday-posts/) get added by the local session with hasLogo:true.",
+ "photos": [
+  {
+   "id": "Grilled-pork-chops-entrees-mitchells-cocoa-florida",
+   "file": "media/website/Grilled-pork-chops-entrees-mitchells-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "entrees",
+   "altText": "Two grilled bone-in pork chops with mashed potatoes and gravy",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "bacon-cheese-burger-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/bacon-cheese-burger-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "burgers",
+   "altText": "All American steak burger with bacon and melted American cheese",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "bacon-ranch-deviled-eggs-mitchells-restaurant-event-trays",
+   "file": "media/website/bacon-ranch-deviled-eggs-mitchells-restaurant-event-trays.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "trays",
+   "altText": "Platter of bacon ranch deviled eggs",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "banana-peanut-butter-waffle-mitchells-restaurant",
+   "file": "media/website/banana-peanut-butter-waffle-mitchells-restaurant.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "waffles",
+   "altText": "Erica's Favorite waffle with sliced bananas, peanut butter and chocolate drizzle",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "biscuit-sandwich-trays-mitchells-restaurant-event-trays",
+   "file": "media/website/biscuit-sandwich-trays-mitchells-restaurant-event-trays.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "trays",
+   "altText": "Event tray of fried chicken biscuit sandwiches",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "bowl-of-chili-mitchells-sides",
+   "file": "media/website/bowl-of-chili-mitchells-sides.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "sides",
+   "altText": "Fully loaded bowl of chili with jalapenos, bacon, cheddar and sour cream",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "cheesesticks-appetizer-mitchells-cocoa",
+   "file": "media/website/cheesesticks-appetizer-mitchells-cocoa.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "apps",
+   "altText": "Mozzarella sticks with marinara",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "chef-salad-mitchells-brevard-county-florida",
+   "file": "media/website/chef-salad-mitchells-brevard-county-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "salads",
+   "altText": "Chef salad with ham, cheddar, tomato, onion and egg",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "chicken-and-waffles-mitchells-restaurant",
+   "file": "media/website/chicken-and-waffles-mitchells-restaurant.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "waffles",
+   "altText": "Chicken and waffles with breaded chicken tenders and butter",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "chicken-biscuit-sandwich-mitchells-brevard-county-florida",
+   "file": "media/website/chicken-biscuit-sandwich-mitchells-brevard-county-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "breakfast",
+   "altText": "Deluxe chicken biscuit with bacon and American cheese",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "chicken-cheddar-salad-event-tray-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/chicken-cheddar-salad-event-tray-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "trays",
+   "altText": "Chicken and cheddar salad event tray",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "chicken-club-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/chicken-club-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "chicken",
+   "altText": "Chicken club sandwich with bacon and provolone",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "chicken-shrimp-salad-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/chicken-shrimp-salad-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1500,
+    1000
+   ],
+   "category": "salads",
+   "altText": "Four fresh salads topped with chicken, shrimp and ham",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "chicken-tenders-sausage-gravy-tray-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/chicken-tenders-sausage-gravy-tray-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "trays",
+   "altText": "Chicken tenders with sausage gravy and house-made chips",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "chili-cheddar-fries-appetizer-mitchells-cocoa",
+   "file": "media/website/chili-cheddar-fries-appetizer-mitchells-cocoa.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "apps",
+   "altText": "Chili cheddar fries",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "corned-beef-hash-eggs-american-cheese-grits-mitchells-restaurant-32922",
+   "file": "media/website/corned-beef-hash-eggs-american-cheese-grits-mitchells-restaurant-32922.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "breakfast",
+   "altText": "Two eggs with corned beef hash, cheese grits and toast",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "country-fried-chicken-breakfast-mitchells-cocoa",
+   "file": "media/website/country-fried-chicken-breakfast-mitchells-cocoa.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "breakfast",
+   "altText": "Country fried chicken with sausage gravy, eggs, hash browns and a biscuit",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "country-fried-chicken-entree-mitchells",
+   "file": "media/website/country-fried-chicken-entree-mitchells.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "entrees",
+   "altText": "Country fried chicken smothered in house-made sausage gravy",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "country-fried-steak-sandwich-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/country-fried-steak-sandwich-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "burgers",
+   "altText": "Country fried steak sandwich with American cheese",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "country-skillet-mitchells-cocoa-florida",
+   "file": "media/website/country-skillet-mitchells-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "breakfast",
+   "altText": "Southern skillet topped with two eggs and sausage gravy",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "egg-whites-sliced-tomatoes-grilled-chicken-breast-mitchells-cocoa-florida",
+   "file": "media/website/egg-whites-sliced-tomatoes-grilled-chicken-breast-mitchells-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "breakfast",
+   "altText": "Egg whites, sliced tomatoes and grilled chicken breast with toast",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "ericas-famous-fried-chicken-tray-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/ericas-famous-fried-chicken-tray-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "trays",
+   "altText": "Erica's famous fried chicken and cheese sandwich tray",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "franks-buffalo-chicken-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/franks-buffalo-chicken-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "chicken",
+   "altText": "Frank's Buffalo chicken sandwich with bleu cheese crumbles",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "franks-buffalo-chicken-salad",
+   "file": "media/website/franks-buffalo-chicken-salad.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "salads",
+   "altText": "Buffalo chicken salad with cheddar and egg",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "franks-buffalo-chicken-sandwich-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/franks-buffalo-chicken-sandwich-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1500,
+    1000
+   ],
+   "category": "chicken",
+   "altText": "Frank's Buffalo chicken sandwich with fries",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "franks-buffalo-chicken-tender-tray-mitchells-cocoa-florida",
+   "file": "media/website/franks-buffalo-chicken-tender-tray-mitchells-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "trays",
+   "altText": "Buffalo chicken tender tray with fries and a pickle spear",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "fried-jalapenos-mitchells-cocoa-apps-1",
+   "file": "media/website/fried-jalapenos-mitchells-cocoa-apps-1.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "apps",
+   "altText": "Basket of fried jalapenos with ranch",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "fried-jalapenos-mitchells-restaurant-cocoa-florida-1",
+   "file": "media/website/fried-jalapenos-mitchells-restaurant-cocoa-florida-1.jpg",
+   "size": [
+    1500,
+    1000
+   ],
+   "category": "apps",
+   "altText": "Fried jalapenos with ranch",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "fried-okra-mitchells-sides",
+   "file": "media/website/fried-okra-mitchells-sides.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "sides",
+   "altText": "Fried okra with ranch",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "fried-pickles-mitchells-cocoa-apps",
+   "file": "media/website/fried-pickles-mitchells-cocoa-apps.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "apps",
+   "altText": "Fried pickles with dipping sauce",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "fried-shrimp-appetizer-mitchells-cocoa",
+   "file": "media/website/fried-shrimp-appetizer-mitchells-cocoa.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "apps",
+   "altText": "Fried jumbo shrimp with cocktail sauce",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "fried-shrimp-tray-mitchells-restaurant-cocoa-florida-1",
+   "file": "media/website/fried-shrimp-tray-mitchells-restaurant-cocoa-florida-1.jpg",
+   "size": [
+    1500,
+    1000
+   ],
+   "category": "trays",
+   "altText": "Jumbo shrimp tray with fries, hush puppies and cocktail sauce",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "garbage-can-omelet-mitchells-cocoa-florida",
+   "file": "media/website/garbage-can-omelet-mitchells-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "omelets",
+   "altText": "Garbage Can omelet loaded with meats, veggies and American cheese",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "grilled-chicken-salad",
+   "file": "media/website/grilled-chicken-salad.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "salads",
+   "altText": "Grilled chicken salad with cheddar, egg, tomato and onion",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "grilled-shrimp-appetizer-mitchells-cocoa",
+   "file": "media/website/grilled-shrimp-appetizer-mitchells-cocoa.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "apps",
+   "altText": "Grilled shrimp with cocktail sauce",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "haddock-breakfast-mitchells-cocoa",
+   "file": "media/website/haddock-breakfast-mitchells-cocoa.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "breakfast",
+   "altText": "Beer battered haddock with two eggs, cheese grits and toast",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "humpty-dumpty-burger-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/humpty-dumpty-burger-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "burgers",
+   "altText": "Humpty Dumpty burger with fried egg, bacon and American cheese",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "jalapeno-cheddar-burger-mitchells",
+   "file": "media/website/jalapeno-cheddar-burger-mitchells.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "burgers",
+   "altText": "Jalapeno cheddar steak burger",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "jumbo-shrimp-tray-mitchells-cocoa-florida",
+   "file": "media/website/jumbo-shrimp-tray-mitchells-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "trays",
+   "altText": "Jumbo shrimp tray with fries, hush puppies and a pickle spear",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "kicken-bourbon-chicken-entrees-mitchells-cocoa-florida",
+   "file": "media/website/kicken-bourbon-chicken-entrees-mitchells-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "entrees",
+   "altText": "Kicken Bourbon chicken with grilled onions and mushrooms",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "kicken-bourbon-chicken-fingers-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/kicken-bourbon-chicken-fingers-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1500,
+    1000
+   ],
+   "category": "trays",
+   "altText": "Kicken Bourbon chicken tenders with house-made chips",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "kicken-bourbon-chicken-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/kicken-bourbon-chicken-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "chicken",
+   "altText": "Kicken Bourbon chicken melt on grilled rye",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "kicken-bourbon-chicken-tender-tray-mitchells-cocoa-florida",
+   "file": "media/website/kicken-bourbon-chicken-tender-tray-mitchells-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "trays",
+   "altText": "Kicken Bourbon chicken tender tray with chips",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "mimosas-mitchells",
+   "file": "media/website/mimosas-mitchells.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "mimosas",
+   "altText": "Two mimosas garnished with fresh strawberries",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "mitchells-club-sandwich",
+   "file": "media/website/mitchells-club-sandwich.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "chicken",
+   "altText": "Mitchell's club sandwich with fries",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "mitchells-restaurant-cocoa-florida-1400-n-cocoa-blvd",
+   "file": "media/website/mitchells-restaurant-cocoa-florida-1400-n-cocoa-blvd.jpg",
+   "size": [
+    1500,
+    550
+   ],
+   "category": "location",
+   "altText": "Mitchell's Restaurant storefront on N Cocoa Blvd",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "mushroom-provolone-burger-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/mushroom-provolone-burger-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "burgers",
+   "altText": "Mushroom provolone steak burger",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "oatmeal-fruit-cup-mitchells-cocoa-florida-32922",
+   "file": "media/website/oatmeal-fruit-cup-mitchells-cocoa-florida-32922.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "breakfast",
+   "altText": "Oatmeal with a fresh fruit cup of strawberries, bananas and blueberries",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "onion-rings-mitchells",
+   "file": "media/website/onion-rings-mitchells.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "sides",
+   "altText": "Basket of golden onion rings",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "peanut-butter-bacon-berry-waffle-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/peanut-butter-bacon-berry-waffle-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1500,
+    1000
+   ],
+   "category": "waffles",
+   "altText": "Peanut Butter Bacon Explosion waffle with berries",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "peanut-butter-bacon-explosion-waffle-mitchells-restaurant",
+   "file": "media/website/peanut-butter-bacon-explosion-waffle-mitchells-restaurant.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "waffles",
+   "altText": "Peanut Butter Bacon Explosion waffle with berries and whipped cream",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "popeye-grilled-chicken-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/popeye-grilled-chicken-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "chicken",
+   "altText": "Popeye grilled chicken sandwich with spinach, bacon and provolone",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "shrimp-salad-mitchells-cocoa",
+   "file": "media/website/shrimp-salad-mitchells-cocoa.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "salads",
+   "altText": "Grilled jumbo shrimp salad",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "sirloin-steak-entrees-mitchells-cocoa-florida",
+   "file": "media/website/sirloin-steak-entrees-mitchells-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "entrees",
+   "altText": "Char grilled sirloin steak with green beans",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "southern-belle-burger-mitchells-restaurant-cocoa-florida",
+   "file": "media/website/southern-belle-burger-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "burgers",
+   "altText": "Southern Belle burger with grilled onions on grilled rye",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "southern-skillet-mitchells-restaurant-cocoa-florida-1000",
+   "file": "media/website/southern-skillet-mitchells-restaurant-cocoa-florida-1000.jpg",
+   "size": [
+    1500,
+    1000
+   ],
+   "category": "breakfast",
+   "altText": "Southern skillet topped with two eggs",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "spinach-shrimp-omelet",
+   "file": "media/website/spinach-shrimp-omelet.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "omelets",
+   "altText": "Shrimp, spinach and provolone omelet with sliced tomatoes",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "strawberry-blueberry-waffle-mitchells-restaurant",
+   "file": "media/website/strawberry-blueberry-waffle-mitchells-restaurant.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "waffles",
+   "altText": "Berries and cream waffle with strawberries and blueberries",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "the-entertainer-mitchells-event-trays",
+   "file": "media/website/the-entertainer-mitchells-event-trays.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "trays",
+   "altText": "The Entertainer event tray of chicken tenders, chips and dips",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "the-spread-mitchells-restaurant-event-trays",
+   "file": "media/website/the-spread-mitchells-restaurant-event-trays.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "trays",
+   "altText": "The Spread event trays with chicken, salad and fruit",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "veggie-omelet-mitchells-cocoa-florida",
+   "file": "media/website/veggie-omelet-mitchells-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "omelets",
+   "altText": "Veggie omelet with grits",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  },
+  {
+   "id": "wild-western-omelet-mitchells-cocoa-florida",
+   "file": "media/website/wild-western-omelet-mitchells-cocoa-florida.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "category": "omelets",
+   "altText": "Wild Western omelet with home fries",
+   "authentic": true,
+   "source": "mitchellscocoa.com (2020 shoot)",
+   "igFeedOk": true,
+   "fit": "cover",
+   "hasLogo": false,
+   "logoSpot": null,
+   "lastUsed": null
+  }
+ ],
+ "excluded": [
+  {
+   "file": "media/website/500wX250h.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/6oz-ham-steak-mitchells-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/8oz-pork-chop-mitchells-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/GMB-Mitchells-grab.jpg",
+   "size": [
+    407,
+    349
+   ],
+   "reason": "screenshot of Google listing with star rating"
+  },
+  {
+   "file": "media/website/Mitchells-logo-web.png",
+   "size": [
+    716,
+    238
+   ],
+   "reason": "logo (use for badge only; 716px, ask for a larger file)"
+  },
+  {
+   "file": "media/website/bacon-mitchells-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/beverages-mitchells-restaurant-melbourne-florida.png",
+   "size": [
+    1687,
+    292
+   ],
+   "reason": "text banner"
+  },
+  {
+   "file": "media/website/call-ahead-1.png",
+   "size": [
+    590,
+    376
+   ],
+   "reason": "text graphic"
+  },
+  {
+   "file": "media/website/chicken-biscuit-mitchells-restaurant-cocoa-florida.jpg",
+   "size": [
+    1500,
+    550
+   ],
+   "reason": "low resolution or duplicate crop (1500x550)"
+  },
+  {
+   "file": "media/website/chili-cheddar-fries-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/corn-beef-hash-mitchells-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/event-party-tray-mitchells-restaurant-cocoa-florida-1500x550-1.png",
+   "size": [
+    1500,
+    550
+   ],
+   "reason": "promo graphic with text"
+  },
+  {
+   "file": "media/website/five-dollar-apps-brevard-county-florida-mitchells-family-restaurant.jpg",
+   "size": [
+    1687,
+    292
+   ],
+   "reason": "shows a price ($5 apps)"
+  },
+  {
+   "file": "media/website/french-toast-mitchells-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/fried-jalapenos-mitchells-restaurant-cocoa-florida-550.jpg",
+   "size": [
+    1500,
+    550
+   ],
+   "reason": "low resolution or duplicate crop (1500x550)"
+  },
+  {
+   "file": "media/website/fried-okra-mitchells-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/gravy-fries-mitchells-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/kicken-bourbon-chicken-mitchells-restaurant-cocoa-florida-550.jpg",
+   "size": [
+    1500,
+    550
+   ],
+   "reason": "low resolution or duplicate crop (1500x550)"
+  },
+  {
+   "file": "media/website/kids-menu-bg-mitchells-cocoa.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "reason": "texture"
+  },
+  {
+   "file": "media/website/kids-menu-mitchells-cocoa.png",
+   "size": [
+    650,
+    262
+   ],
+   "reason": "text graphic"
+  },
+  {
+   "file": "media/website/mimosa-mitchells-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/mitchells-bg-1500x1000-1.jpg",
+   "size": [
+    1500,
+    1000
+   ],
+   "reason": "texture (brand red pattern)"
+  },
+  {
+   "file": "media/website/mitchells-restaurant-cocoa-florida-1500x550-1.png",
+   "size": [
+    1500,
+    550
+   ],
+   "reason": "price graphic"
+  },
+  {
+   "file": "media/website/mitchells-restaurant-cocoa-florida-1500x550-blue-sandwich-tex-1.jpg",
+   "size": [
+    1500,
+    550
+   ],
+   "reason": "texture (navy)"
+  },
+  {
+   "file": "media/website/mushroom-provolone-burger-mitchells-restaurant-cocoa-florida-1500x550-1.jpg",
+   "size": [
+    1500,
+    550
+   ],
+   "reason": "low resolution or duplicate crop (1500x550)"
+  },
+  {
+   "file": "media/website/onion-rings-mitchells-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/pancakes-mitchells-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/shrimp-omelet-mitchells-restaurant-cocoa-florida-550-1.jpg",
+   "size": [
+    1500,
+    550
+   ],
+   "reason": "low resolution or duplicate crop (1500x550)"
+  },
+  {
+   "file": "media/website/southern-fried-chicken-mitchells-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  },
+  {
+   "file": "media/website/southern-skillet-mitchells-restaurant-cocoa-florida-1000-1.jpg",
+   "size": [
+    1500,
+    1000
+   ],
+   "reason": "low resolution or duplicate crop (1500x1000)"
+  },
+  {
+   "file": "media/website/waffle-mitchells-500.jpg",
+   "size": [
+    500,
+    250
+   ],
+   "reason": "low resolution or duplicate crop (500x250)"
+  }
+ ]
+}
