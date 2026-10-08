@@ -9,6 +9,8 @@
 | Phone | 321.338.2909 |
 | Website | www.MitchellsCocoa.com |
 | Hours | 7am-2pm, every day |
+| Known for | Mimosas (Mitchell's is famous for them) |
+| Location note | Cocoa, FL. Not Cocoa Village; never say "Cocoa Village" |
 | HighLevel sub-account | Mitchell's Restaurant, locationId `McxtZDLFfQXmRr0Nx1gb` |
 | Timezone | America/New_York (ET) |
 
@@ -26,6 +28,7 @@ www.MitchellsCocoa.com
 - Cadence: Instagram + Facebook daily, Google Business Profile Mon/Wed/Fri, starting the day after Frank approves.
 - Topics: everything (signature dishes, breakfast, lunch, atmosphere & team, seasonal / local Cocoa).
 - Prices: never, unless Frank provides them.
+- Plan a month of content at a time, including holiday posts, built from Frank's already-branded images.
 - Hours line "Open 7am-2pm every day!" is confirmed and can be used in posts.
 
 ## Unverified: from third-party listings, confirm before use
@@ -35,7 +38,6 @@ Found by web search on 2026-10-08. Do **not** put these in a post until Frank or
 - Listed as a breakfast diner, "$" price range.
 - Dishes mentioned by listings: country fried chicken breakfast platter, chicken and waffles, biscuits and gravy, eggs benedict, pancakes, omelets.
 - Mr Sushi's HighLevel library holds ~37 Mitchell's photos: omelets, burgers, salads, fries (so lunch items likely exist).
-- One listing mentions "Mitchell's Mimosas" and one places Mitchell's in Cocoa Village. Both may be about a different business; ask Frank.
 - Third-party review ratings (e.g. Restaurantji) are not to be quoted.
 
 ## Still to collect
